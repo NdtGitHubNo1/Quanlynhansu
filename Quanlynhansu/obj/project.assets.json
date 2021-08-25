@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\QuanLyNhanSu\\Quanlynhansu\\Quanlynhansu\\Quanlynhansu.csproj",
+      "projectUniqueName": "D:\\QuanLyNhanSu\\Quanlynhansu_github\\Quanlynhansu\\Quanlynhansu.csproj",
       "projectName": "Quanlynhansu",
-      "projectPath": "D:\\QuanLyNhanSu\\Quanlynhansu\\Quanlynhansu\\Quanlynhansu.csproj",
+      "projectPath": "D:\\QuanLyNhanSu\\Quanlynhansu_github\\Quanlynhansu\\Quanlynhansu.csproj",
       "packagesPath": "C:\\Users\\ducto\\.nuget\\packages\\",
-      "outputPath": "D:\\QuanLyNhanSu\\Quanlynhansu\\Quanlynhansu\\obj\\",
+      "outputPath": "D:\\QuanLyNhanSu\\Quanlynhansu_github\\Quanlynhansu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ducto\\AppData\\Roaming\\NuGet\\NuGet.Config",
