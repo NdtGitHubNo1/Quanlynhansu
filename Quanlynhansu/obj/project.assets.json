@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ducto\\.nuget\\packages\\": {}
+    "C:\\Users\\quang\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\QuanLyNhanSu\\Quanlynhansu_github\\Quanlynhansu\\Quanlynhansu.csproj",
+      "projectUniqueName": "C:\\Users\\quang\\source\\repos\\QLNS\\Quanlynhansu\\Quanlynhansu.csproj",
       "projectName": "Quanlynhansu",
-      "projectPath": "D:\\QuanLyNhanSu\\Quanlynhansu_github\\Quanlynhansu\\Quanlynhansu.csproj",
-      "packagesPath": "C:\\Users\\ducto\\.nuget\\packages\\",
-      "outputPath": "D:\\QuanLyNhanSu\\Quanlynhansu_github\\Quanlynhansu\\obj\\",
+      "projectPath": "C:\\Users\\quang\\source\\repos\\QLNS\\Quanlynhansu\\Quanlynhansu.csproj",
+      "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\quang\\source\\repos\\QLNS\\Quanlynhansu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ducto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
